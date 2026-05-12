@@ -1,0 +1,1 @@
+This project uses Python to create a stock analytics dashboard. The program analyzes stock data, tracks trends, detects anomalies, displays charts, and stores search history through a graphical user interface.  Language used: Python Libraries used: yfinance, pandas, numpy, tkinter, matplotlib, scikit-learn, sqlite3
